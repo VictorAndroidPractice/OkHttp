@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OkHttp</string>
+    <string name="action_settings">Settings</string>
+    <plurals name="cocoa">
+        <item quantity="one">1 cocoa</item>
+        <item quantity="other">%d cocoas</item>
+    </plurals>
+</resources>
